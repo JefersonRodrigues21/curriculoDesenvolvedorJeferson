@@ -4,38 +4,34 @@
 * {
   margin: 0px;
   padding: 0px;
-  /* box-sizing: border-box; define tamanho total desde a borda */
-  /* vertical-align: baseline; */
-  /* list-style: none; */
-}
+ }
 
 body {
-    /* margin: 300px; */
+    margin: 300px;
     padding: 40px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-
-
 .container {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 400px;
+    margin: 0 400px;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.nome, .titulo {
+header .nome #nome {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.titulo {
     font-size: 16px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 10px;
     background-color: #f2f2f2;
-}
-.nome {
-    font-size: 5px;
-    font-weight: bold;
-    background-color: white;
 }
 
 .experiencia {
@@ -47,7 +43,7 @@ body {
 
 header{
     text-align: justify;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
 }
  
 p {
