@@ -1,11 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* * {
-  margin: 0px;
-  padding: 0px;
- } */
-
 body {
     margin: 200px;
     padding: 50px;
@@ -47,11 +42,6 @@ header .nome #nome {
     margin-bottom: 5px;
 }
 
-/* header{
-    text-align: justify;
-    margin-bottom: 40px;
-} */
- 
 p {
     font-size: 16px;
     line-height: 1.5;
