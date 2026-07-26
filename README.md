@@ -35,8 +35,8 @@ Metodologias: Scrum, Kanban, Metodologias Ágeis;
 Pacote Office: Conhecimento no pacote da Microsoft e/ou Google Suite;
 Técnicas de atendimento: Atendimento/Suporte ao Cliente;
 Soft Skills: Proatividade, Organização, Colaboração, Senso Crítico, Comunicação Clara, Foco em resultados.
-PROJETOS PRÁTICOS
 
+PROJETOS PRÁTICOS
 
 Soft Skills: Proatividade, Organização, Colaboração, Senso Crítico, Comunicação Clara, Foco em resultados:
 https://github.com/JefersonRodrigues21/nikel
@@ -47,31 +47,31 @@ EXPERIÊNCIA PROFISSIONAL
 
 Asa Espaço Empresarial - Assistente Administrativo (nov/2017 – jul/2026):
 
-
 Atendimento ao cliente via telefone, e-mail e WhatsApp de forma consultiva, ágil e acolhedora;
 Sistemas de gestão pública;
 Criação e controle de contratos e boletos.
 Gestão de contas a pagar/receber e fluxo de documentos.
 Uso diário de ferramentas Google e planilhas.
 Desenvolvimento de comunicação assertiva e organização sob pressão.
-Senai-MT - Assistente Administratico (2 anos):
 
+Senai-MT - Assistente Administratico (2 anos):
 
 Assistente administrativo;
 Auxiliar em compras (orçamentos e licitações);
 Atendimento ao Cliente.
-Exército Brasileiro - Cabo Comandante de Esquadra (8 anos):
 
+Exército Brasileiro - Cabo Comandante de Esquadra (8 anos):
 
 Formação em disciplina, liderança, resiliência e trabalho em equipe.
 Experiência em gestão de pessoas e cumprimento de metas sob prazos.
 Atendimento ao cliente por telefone, whatsapp e presencial.
-FORMAÇÃO ACADÊMICA
 
+FORMAÇÃO ACADÊMICA
 
 Análise e Desenvolvimento de Sistemas – Gran Faculdade (Cursando, conclusão prevista: Abr/2028).
 Pós-Graduação em Desenvolvimento Full Stack – Descomplica Faculdade Digital (Cursando, conclusão prevista: Out/2027).
 Bacharelado em Segurança Pública – UNISUL – SC (Concluído em 2014).
+
 IDIOMAS
 
 Inglês: Básico (em estudo para nível intermediário).
